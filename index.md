@@ -7,6 +7,9 @@ A Cognitive approach to predict the multi-directional trajectory of pedestrians 
 
 <center><a href="https://doi.org/10.34028/iajit/20/2/11">Published pedestrians paper</a></center>
 
+
+
+
 <center><img src="images/pedestrian.jpg"/></center>
 
 
